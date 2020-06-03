@@ -1,54 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="750px" height="630.455px" viewBox="0 -0.193027 750 630.841" enable-background="new 0 0 750 630.455" xml:space="preserve" preserveAspectRatio="xMidYMid meet" ><rect id="svgEditorBackground" x="0" y="0" width="750" height="630.4550170898438" style="fill:none;stroke:none;"/>
 	
-<style type="text/css">
-	.st0{fill:none;}
-	.st1{fill:url(#SVGID_1_);}
-	.st2{fill:#0D0808;}
-	.st3{display:none;}
-	.st4{display:inline;}
-	.st5{fill:#141414;}
-	.st6{fill:#FF0000;}
-	.st7{display:inline;fill:none;}
-	.st8{fill:#120B0B;}
-	.st9{fill:#242424;}
-	.st10{fill:#292929;}
-	.st11{fill:#191919;}
-	.st12{fill:#1C1C1C;}
-	.st13{fill:#171717;}
-	.st14{fill:#0F0F0F;}
-	.st15{fill:#1A1A1A;}
-	.st16{display:inline;fill:#242424;}
-	.st17{display:inline;fill:#1C1C1C;}
-	.st18{fill:#EBEBEB;}
-	.st19{fill:#EDF4F4;}
-	.st20{fill:#DBDBDB;}
-	.st21{fill:#E3E3E3;}
-	.st22{fill:#D6D6D6;}
-	.st23{display:inline;fill:#0F0F0F;}
-	.st24{fill:#E6E6E6;}
-	.st25{fill:#E8E8E8;}
-	.st26{fill:#F0F0F0;}
-	.st27{fill:#E5E5E5;}
-	.st28{fill:#1A1615;}
-	.st29{fill:#0A0A0A;stroke:#000000;stroke-width:0.9994;stroke-miterlimit:9.9939;}
-	.st30{fill:#FF008E;}
-	.st31{display:inline;fill:#F5F5F5;stroke:#FFFFFF;stroke-width:0.9994;stroke-miterlimit:9.9939;}
-	.st32{fill:#929493;}
-	.st33{fill:#080808;stroke:#140C0C;stroke-width:1.9988;stroke-miterlimit:9.9939;}
-	.st34{stroke:#120B0B;stroke-width:1.9988;stroke-miterlimit:9.9939;}
-	.st35{fill:#0A0A0A;}
-	.st36{fill:#0D0D0D;}
-	.st37{display:inline;fill:#0D0808;}
-	.st38{display:inline;fill:#080808;}
-	.st39{display:inline;fill:#0D0D0D;}
-	.st40{display:inline;fill:#1A1A1A;}
-	.st41{fill:#152039;}
-	.st42{fill:url(#SVGID_2_);}
-	.st43{fill:url(#SVGID_3_);}
-	.st44{fill:#111627;}
-	.st45{fill:#1E2C47;}
-	.st46{fill:#FFFFFF;}
-</style>
 <rect id="svgEditorBackground" x="0.2" y="0.2" class="st0" width="749.5" height="630.1"/>
 <g id="Layer_1_1_">
 	<path d="M664.2,214c-6.7-16.7-20.5-20.9-21.8-22c-11.7-10.3-2.5-21.2-19.9-30.7c-18.3-9.9-71.9-37-114.2-31.4
