@@ -3,7 +3,7 @@
 }
 
 .edit.disconnected {
-  background: url(assets/disconnected.svg);
+  background: url(https://raw.githubusercontent.com/jmepena/jmeControllerOverlay/master/assets/disconnected.svg);
 }
 
 .edit .quadrant {
